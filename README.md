@@ -22,7 +22,7 @@ neovim install instructions
 tmux
 
 '''
-tmux install instructions
+apt install tmux
 '''
 
 ## SSH
